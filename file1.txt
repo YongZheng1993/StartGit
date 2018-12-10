@@ -1,7 +1,4 @@
 1
 add 20181205
-<<<<<<< HEAD
 modify by YongZhaneg in 20181210
-=======
->>>>>>> 1c300c73991db6f8e48c5e59febc476e9ac1f164
 modify 20181210
