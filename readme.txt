@@ -6,4 +6,10 @@ My stupid BOSS still perfers SVN
 modify by YongZheng --a
 =======
 add  filed filed5.txt 20181210
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+
+
+abcdef  mofify file1.txt
 >>>>>>> dev
